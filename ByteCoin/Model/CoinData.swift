@@ -6,7 +6,4 @@ struct CoinData: Decodable{
     
     let rate: Double
     
-
-    
-    
 }
